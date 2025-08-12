@@ -1,7 +1,7 @@
 {
   "users": [
     {
-      "_id": 1,
+      "id": 1,
       "firstname": "علی",
       "lastname": "رضایی",
       "username": "ali_rezaei",
@@ -9,7 +9,7 @@
       "age": 25
     },
     {
-      "_id": 2,
+      "id": 2,
       "firstname": "مریم",
       "lastname": "احمدی",
       "username": "maryam_ahmadi",
@@ -17,7 +17,7 @@
       "age": 28
     },
     {
-      "_id": 3,
+      "id": 3,
       "firstname": "حسین",
       "lastname": "کریمی",
       "username": "hossein_karimi",
@@ -25,7 +25,7 @@
       "age": 32
     },
     {
-      "_id": 4,
+      "id": 4,
       "firstname": "سارا",
       "lastname": "محمدی",
       "username": "sara_mohammadi",
@@ -33,7 +33,7 @@
       "age": 22
     },
     {
-      "_id": 5,
+      "id": 5,
       "firstname": "رضا",
       "lastname": "عابدی",
       "username": "reza_abedi",
@@ -41,7 +41,7 @@
       "age": 27
     },
     {
-      "_id": 6,
+      "id": 6,
       "firstname": "الهام",
       "lastname": "کاظمی",
       "username": "elham_kazemi",
@@ -49,7 +49,7 @@
       "age": 30
     },
     {
-      "_id": 7,
+      "id": 7,
       "firstname": "محمد",
       "lastname": "جعفری",
       "username": "mohammad_jafari",
@@ -57,7 +57,7 @@
       "age": 29
     },
     {
-      "_id": 8,
+      "id": 8,
       "firstname": "زهرا",
       "lastname": "کامیاب",
       "username": "zahra_kamyab",
@@ -65,7 +65,7 @@
       "age": 24
     },
     {
-      "_id": 9,
+      "id": 9,
       "firstname": "حامد",
       "lastname": "حسینی",
       "username": "hamed_hosseini",
@@ -73,7 +73,7 @@
       "age": 26
     },
     {
-      "_id": 10,
+      "id": 10,
       "firstname": "نیلوفر",
       "lastname": "نوری",
       "username": "niloufar_nouri",
@@ -83,7 +83,7 @@
   ],
   "courses": [
     {
-      "_id": 1,
+      "id": 1,
       "title": "دوره جامع جاوااسکریپت",
       "price": 1200000,
       "category": "برنامه‌نویسی وب",
@@ -92,7 +92,7 @@
       "desc": "آموزش کامل جاوااسکریپت از مقدماتی تا پیشرفته"
     },
     {
-      "_id": 2,
+      "id": 2,
       "title": "دوره HTML و CSS",
       "price": 800000,
       "category": "فرانت‌اند",
@@ -101,7 +101,7 @@
       "desc": "آموزش کامل طراحی صفحات وب با HTML و CSS"
     },
     {
-      "_id": 3,
+      "id": 3,
       "title": "دوره React.js",
       "price": 1500000,
       "category": "فرانت‌اند",
@@ -110,7 +110,7 @@
       "desc": "آموزش تخصصی React.js برای ساخت وب اپلیکیشن"
     },
     {
-      "_id": 4,
+      "id": 4,
       "title": "دوره Node.js",
       "price": 1400000,
       "category": "بک‌اند",
@@ -119,7 +119,7 @@
       "desc": "آموزش ساخت سرور و API با Node.js"
     },
     {
-      "_id": 5,
+      "id": 5,
       "title": "دوره Python",
       "price": 1300000,
       "category": "برنامه‌نویسی عمومی",
@@ -128,7 +128,7 @@
       "desc": "آموزش پایتون از صفر تا صد"
     },
     {
-      "_id": 6,
+      "id": 6,
       "title": "دوره PHP",
       "price": 1000000,
       "category": "بک‌اند",
@@ -137,7 +137,7 @@
       "desc": "آموزش طراحی سایت با PHP و MySQL"
     },
     {
-      "_id": 7,
+      "id": 7,
       "title": "دوره TypeScript",
       "price": 1100000,
       "category": "فرانت‌اند",
@@ -146,7 +146,7 @@
       "desc": "آموزش تایپ‌اسکریپت برای پروژه‌های بزرگ"
     },
     {
-      "_id": 8,
+      "id": 8,
       "title": "دوره Next.js",
       "price": 1600000,
       "category": "فرانت‌اند",
@@ -155,7 +155,7 @@
       "desc": "آموزش ساخت وبسایت‌های مدرن با Next.js"
     },
     {
-      "_id": 9,
+      "id": 9,
       "title": "دوره Express.js",
       "price": 900000,
       "category": "بک‌اند",
@@ -164,7 +164,7 @@
       "desc": "آموزش فریم‌ورک Express.js برای Node.js"
     },
     {
-      "_id": 10,
+      "id": 10,
       "title": "دوره MongoDB",
       "price": 950000,
       "category": "دیتابیس",
