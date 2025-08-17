@@ -149,36 +149,6 @@
             "flag": "https://flagcdn.com/w320/sy.png",
             "name": "سوریه",
             "population": 22530746
-        },
-        {
-            "id": 26,
-            "flag": "https://flagcdn.com/w320/iq.png",
-            "name": "عراق",
-            "population": 36004552
-        },
-        {
-            "id": 27,
-            "flag": "https://flagcdn.com/w320/sa.png",
-            "name": "عربستان سعودی",
-            "population": 31521418
-        },
-        {
-            "id": 28,
-            "flag": "https://flagcdn.com/w320/om.png",
-            "name": "عمان",
-            "population": 3090150
-        },
-        {
-            "id": 29,
-            "flag": "https://flagcdn.com/w320/ph.png",
-            "name": "فیلیپین",
-            "population": 103775002
-        },
-        {
-            "id": 30,
-            "flag": "https://flagcdn.com/w320/cy.png",
-            "name": "قبرس",
-            "population": 1138071
         }
     ]
 }
